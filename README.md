@@ -26,16 +26,4 @@ Overviewlangchain-models is a curated collection of Python implementations desig
  ┣ 📜 requirements.txt       # Unified dependency list
  ┗ 📜 README.md              # Project Documentation
  
-🛠️ Tech StackTechnologyPurposeLangChainOrchestration framework for LLMsOpenAIState-of-the-art Embeddings & Chat ModelsHugging FaceLocal open-source model integrationScikit-learnMathematical Cosine Similarity calculationsNumPyHigh-performance array manipulationsPython DotenvSecure environment variable management⚙️ Setup & Installation1. Clone the Repositorygit clone [https://github.com/aliza-dev/langchain-models.git](https://github.com/aliza-dev/langchain-models.git)
-cd langchain-models
-2. Virtual Environment Setup# Create and activate environment
-python -m venv venv
-# Windows
-.\venv\Scripts\activate
-# Mac/Linux
-source venv/bin/activate
-3. Install Dependenciespip install -r requirements.txt
-4. Configure SecretsCreate a .env file in the root directory:OPENAI_API_KEY="your_secret_key_here"
-HUGGINGFACEHUB_API_TOKEN="your_hf_token_here"
-💻 Running the ApplicationTo run the Document Similarity search engine (Identifying Indian Cricketers via semantic logic):python 3.EmbeddedModels/4_document_similarity.py
-[!TIP]VS Code Interpreter Issue: If imports show errors, press Ctrl+Shift+P, type "Python: Select Interpreter", and choose the one inside your ./venv folder.🤝 ContributingContributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.Fork the ProjectCreate your Feature Branch (git checkout -b feature/NewModel)Commit your Changes (git commit -m 'Add some NewModel')Push to the Branch (git push origin feature/NewModel)Open a Pull Request<div align="center">Created with ❤️ by @aliza-dev</div>
+Created with ❤️ by @aliza-dev</div>
